@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+  .marquee {
+    will-change: transform;
+    animation: marquee-right 18s linear infinite;
+  }
+  @keyframes marquee-right {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+}
