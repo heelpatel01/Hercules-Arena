@@ -47,7 +47,7 @@ export const GALLERY_IMAGES = [
   },
   {
     id: 3,
-    url: "/NightFloodlights.png",
+    url: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-evMi2U9zpeVNSNpuJ2awPF5iepO3IBjdlvBoHl_JBRhedq8n3yXgkcRNdf31XZQhgHqT1UZULF04cwxwy2d3fit-LRpMRS8ykP8z0GBLdhyQnYi-q0Zj1w7WA2v4vYE9loZKLAfq6exX=s1360-w1360-h1020-rw",
     title: "Night Floodlights",
   },
   {
@@ -57,12 +57,12 @@ export const GALLERY_IMAGES = [
   },
   {
     id: 5,
-    url: "/DugoutArea.png",
+    url: "https://images.pexels.com/photos/29820785/pexels-photo-29820785.jpeg",
     title: "Dugout Area",
   },
   {
     id: 6,
-    url: "/pickleball.png",
+    url: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw8eplAbvan08mU1BHqARYZgF8txXsapesae40RtT1waGZTnf6GX-q1WoyikfPl7qnbnNJbHNBL0L8osDZghHmD8E33KakQLyowpxUXgOhLlPk9-tA0sSnxiNpkbtcE3vHtdBJ7=s1360-w1360-h1020-rw",
     title: "Pickleball Action",
   },
 ];
