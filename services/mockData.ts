@@ -57,7 +57,7 @@ export const GALLERY_IMAGES = [
   },
   {
     id: 5,
-    url: "/Dugout Area.png",
+    url: "/DugoutArea.png",
     title: "Dugout Area",
   },
   {
