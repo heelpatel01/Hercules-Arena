@@ -7,7 +7,8 @@ export const TURFS: Turf[] = [
     type: "CRICKET",
     basePricePerHour: 1200,
     // Night cricket stadium/turf with floodlights and green grass
-    image: "/NightFloodlights.png",
+    image:
+      "https://lh3.googleusercontent.com/p/AF1QipOyqW9gcQpBcRqDZRKp08wm8_cnV4-za6l5b2Wn=s1360-w1360-h1020-rw",
     description:
       "Professional grade cricket turf with ample run-up area, high nets, and floodlights for night matches.",
     features: [
@@ -23,7 +24,8 @@ export const TURFS: Turf[] = [
     type: "PICKLEBALL",
     basePricePerHour: 800,
     // Synthetic court image
-    image: "/pickleball.png",
+    image:
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx6-YGYIBObETobk8WkwA9o7tJ44AURxP2xjmjd8Jv2KCFMTC7FZl9985UexQOZwxDEmPpjHK5v6bKMppCI3uL96a_K9qW-JUfe1gf2B-VTl_Z0W3tkeYJsuxy5njv-X588qDJbTGOjTO_V=s1360-w1360-h1020-rw",
     description:
       "Standard size pickleball court with premium synthetic surface and anti-skid coating.",
     features: [
